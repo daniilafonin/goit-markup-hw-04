@@ -319,13 +319,6 @@ img {
   border-radius: 50%;
   gap: 24px;
 }
-.social-icons {
-  width: 16px;
-  height: 16px;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-}
 
 .social-link {
   display: block;
