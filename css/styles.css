@@ -498,9 +498,6 @@ img {
   background-color: #31d0aa;
 }
 
-.icon-instagram,
-.icon-twitter,
-.icon-facebook,
-.icon-linkedin {
+.footer-social-icon {
   fill: #f4f4fd;
 }
